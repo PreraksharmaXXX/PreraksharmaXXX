@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/PreraksharmaXXX)
 
 - 📫 How to reach me **prerak09032004@gmail.com**
-
+  
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-1HexJ_axXnv40VQ3X98x2zvJUe-LaAR/edit?usp=drivesdk&ouid=117707255398676272230&rtpof=true&sd=tru)
 
 - ⚡ Fun fact **I hate Tea🍵**
