@@ -88,7 +88,7 @@
 ---
 
 ## **🚧 Upcoming Projects:**
-- [Credit Card Fraud Detection](https://github.com/yourusername/project1)
+- [Credit Card Fraud Detection](https://github.com/PreraksharmaXXX/Credit-Card-Fraud-Detection)
 - [Online Voting System](https://github.com/yourusername/project2)
 
  ---
