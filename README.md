@@ -85,6 +85,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=preraksharmaxxx&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
+---
+
+## **🚧 Upcoming Projects:**
+- [Credit Card Fraud Detection](https://github.com/yourusername/project1)
+- [Online Voting System](https://github.com/yourusername/project2)
+
  ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FFD700&center=true&vCenter=true&lines=Thank+You+For+Visiting+My+Profile!+🚀;Happy+Coding!+😊" />
