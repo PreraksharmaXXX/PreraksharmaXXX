@@ -85,11 +85,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=preraksharmaxxx&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
----
+## 🎯 Contribution Goal
 
-## **🚧 Upcoming Projects:**
-- [Credit Card Fraud Detection](https://github.com/yourusername/project1)
-- [Online Voting System](https://github.com/yourusername/project2)
+Current Progress: 0 commits
+
+
 
  ---
 <p align="center">
