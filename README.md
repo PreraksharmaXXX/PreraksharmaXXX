@@ -89,7 +89,7 @@
 
 ## **🚧 Upcoming Projects:**
 - [Credit Card Fraud Detection](https://github.com/PreraksharmaXXX/Credit-Card-Fraud-Detection)
-- [Online Voting System](https://github.com/yourusername/project2)
+- [Online Voting System](https://github.com/PreraksharmaXXX/Online-Voting-System)
 
  ---
 <p align="center">
