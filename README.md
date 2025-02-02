@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerak Sharma</h1>
 <h3 align="center">A passionate and fun loving 3rd Year Student from India</h3>
+
 <p align="center">
   <a href="https://github.com/PrerakSharmaXXX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4E9F3D&center=true&width=600&lines=Aspiring+Engineer+%7C+Developer;Passionate+about+AI+%7C+ML+%7C+Web+Development;Always+learning+something+new!" alt="Typing SVG" />
