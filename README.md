@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prerak Sharma</h1>
-<h3 align="center">A passionate and fun loving 3rd Year Student from India</h3>
+<h3 align="center">A passionate and fun loving 4rth Year Student from India</h3>
 
 <p align="center">
   <a href="https://github.com/PrerakSharmaXXX">
